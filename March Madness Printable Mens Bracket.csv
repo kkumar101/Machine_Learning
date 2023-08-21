@@ -1,0 +1,65 @@
+original_teamname,data_teamname,region,number,team_id
+Alabama,Alabama,South,1,1104
+Texas A&M-CC/SE Missouri State,SE Missouri St,South,2,1369
+Maryland,Maryland,South,3,1268
+West Virginia,West Virginia,South,4,1452
+San Diego State,San Diego St,South,5,1361
+Charleston,Col Charleston,South,6,1158
+Virginia,Virginia,South,7,1438
+Furman,Furman,South,8,1202
+Creighton,Creighton,South,9,1166
+NC State,NC State,South,10,1301
+Baylor,Baylor,South,11,1124
+UC Santa Barbara,Santa Barbara,South,12,1364
+Missouri,Missouri,South,13,1281
+Utah State,Utah St,South,14,1429
+Arizona,Arizona,South,15,1112
+Princeton,Princeton,South,16,1343
+Purdue,Purdue,East,1,1345
+Texas Southern/Fairleigh Dickinson,F Dickinson,East,2,1192
+Memphis,Memphis,East,3,1272
+Florida Atlantic,FL Atlantic,East,4,1194
+Duke,Duke,East,5,1181
+Oral Roberts,Oral Roberts,East,6,1331
+Tennessee,Tennessee,East,7,1397
+Louisiana,ULL,East,8,1418
+Kentucky,Kentucky,East,9,1246
+Providence,Providence,East,10,1344
+Kansas State,Kansas St,East,11,1243
+Montana State,Montana St,East,12,1286
+Michigan State,Michigan St,East,13,1277
+USC,USC,East,14,1425
+Marquette,Marquette,East,15,1266
+Vermont,Vermont,East,16,1436
+Houston,Houston,Midwest,1,1222
+Northern Kentucky,N Kentucky,Midwest,2,1297
+Iowa,Iowa,Midwest,3,1234
+Auburn,Auburn,Midwest,4,1120
+Miami,Miami FL,Midwest,5,1274
+Drake,Drake,Midwest,6,1179
+Indiana,Indiana,Midwest,7,1231
+Kent State,Kent,Midwest,8,1245
+Iowa State,Iowa St,Midwest,9,1235
+Mississippi State/Pittsburgh,Pittsburgh,Midwest,10,1338
+Xavier,Xavier,Midwest,11,1462
+Kennesaw State,Kennesaw,Midwest,12,1244
+Texas A&M,Texas A&M,Midwest,13,1401
+Penn State,Penn St,Midwest,14,1336
+Texas,Texas,Midwest,15,1400
+Colgate,Colgate,Midwest,16,1159
+Kansas,Kansas,West,1,1242
+Howard,Howard,West,2,1224
+Arkansas,Arkansas,West,3,1116
+Illinois,Illinois,West,4,1228
+Saint Mary??s,St Mary's CA,West,5,1388
+VCU,VA Commonwealth,West,6,1433
+UConn,Connecticut,West,7,1163
+Iona,Iona,West,8,1233
+TCU,TCU,West,9,1395
+Arizona State/Nevada,Nevada,West,10,1305
+Gonzaga,Gonzaga,West,11,1211
+Grand Canyon,Grand Canyon,West,12,1213
+Northwestern,Northwestern,West,13,1321
+Boise State,Boise St,West,14,1129
+UCLA,UCLA,West,15,1417
+UNC Asheville,UNC Asheville,West,16,1421
